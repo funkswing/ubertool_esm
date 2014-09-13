@@ -146,7 +146,7 @@ a:hover {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
 }
 #topheader_pic {
-  background: #DB9C27 url(/images/species/beecombcrop.jpg);
+  background: #DB9C27 url(/images/species/kit_fox.jpg);
   width: 720px;
   height: 120px;
   float: left;
@@ -171,7 +171,7 @@ a:hover {
   padding-top: 25%; /* Text Positioning */
 }
 #topheader_pic_main {
-  background: #DB9C27 url(/images/species/beecombcrop.jpg);
+  background: #DB9C27 url(/images/species/kit_fox.jpg);
   width: 720px;
   height: 240px;
   float: left;
